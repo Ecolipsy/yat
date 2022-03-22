@@ -1,3 +1,5 @@
 2.1.0:
     - Added support for UDP4 AND UDP6
     - Created README
+3.0.0:
+    - Added support for changing destination protocol

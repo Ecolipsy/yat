@@ -1,6 +1,6 @@
 {
   "name": "@theinteger-org/yat",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Yet Another Tunnel (or YAT for short) is a tunneling program made for lightweightness and simplicity.",
   "main": "index.js",
   "scripts": {},
