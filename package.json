@@ -1,0 +1,27 @@
+{
+  "name": "@theinteger-org/yat",
+  "version": "2.1.0",
+  "description": "Yet Another Tunnel (or YAT for short) is a tunneling program made for lightweightness and simplicity.",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "yat": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ecolipsy/yat.git"
+  },
+  "keywords": [
+    "tunnel",
+    "reverse-proxy"
+  ],
+  "author": "Ecolipsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ecolipsy/yat/issues"
+  },
+  "homepage": "https://github.com/Ecolipsy/yat#readme",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
